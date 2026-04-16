@@ -1,0 +1,11 @@
+Chapter 1: Getting Started
+
+This is the first chapter of our test book. It contains some sample text
+that we will use to verify the ingestion pipeline works correctly.
+There should be enough content here to create at least one chunk.
+
+Chapter 2: Going Deeper
+
+In this second chapter we explore more advanced topics. The chunker should
+split this content intelligently and preserve all the metadata including
+the chapter name and page number for accurate citations later.

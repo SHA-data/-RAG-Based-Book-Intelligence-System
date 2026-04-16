@@ -1,0 +1,19 @@
+Chapter 1: Introduction to Artificial Intelligence
+
+Artificial intelligence is the simulation of human intelligence processes
+by computer systems. These processes include learning, reasoning, and
+self-correction. AI has become one of the most transformative technologies
+of the 21st century.
+
+Chapter 2: Machine Learning Basics
+
+Machine learning is a subset of artificial intelligence that gives systems
+the ability to automatically learn and improve from experience. It focuses
+on developing computer programs that can access data and use it to learn
+for themselves without being explicitly programmed.
+
+Chapter 3: Neural Networks
+
+Neural networks are computing systems inspired by biological neural networks
+that constitute animal brains. They are based on a collection of connected
+nodes that loosely model the neurons in a biological brain.

@@ -29,7 +29,7 @@ Turn uploaded books into a searchable AI knowledge base. Upload PDFs, TXTs, or E
 We use `uv` for lightning fast dependencies and execution:
 
 ```bash
-git clone <your-repo-url>
+gh repo clone SHA-data/-RAG-Based-Book-Intelligence-System
 cd rag-book-kb
 uv pip install -r requirements.txt
 cp .env.example .env   # add your GROQ_API_KEY and GEMINI_API_KEY
